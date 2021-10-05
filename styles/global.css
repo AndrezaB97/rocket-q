@@ -25,6 +25,7 @@ html {
 }
 
 body {
+  display: flex;
   height: 100vh; /* total da tela*/
   background: var(--background);
 }
